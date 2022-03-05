@@ -26,7 +26,7 @@ public class ArrayExample {
 		number2[6] = 5.11;
 		number2[7] = 14.11;
 		number2[8] = 17.11;
-		number2[9] = 7.11;
+		
 		
 		
 		
